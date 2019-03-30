@@ -1,8 +1,9 @@
-# image-restoration
+# Image-Restoration Team
 
 
 We restore very dark images to high quality and visible images.
 
+Here is an example from the reference paper:
 ![Here is an example from the reference paper](https://github.com/cchen156/Learning-to-See-in-the-Dark/blob/master/images/fig1.png)
 
 
