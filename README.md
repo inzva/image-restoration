@@ -25,10 +25,15 @@ inzva AI Projects #2 - Image Restoration Project
 ## Instructions
 
 1- Paths and hyperparameters can be set at the top of test_Sony.py and train_Sony.py files.
+
 2- The files will be read from respective input and ground truth directories.
+
 3- The size of the deep neural network will be decided based on hyperparameters.
+
 4- Training and test sets are generated based on the first characters of the filenames. Please refer to the code for specific implementation.
+
 4- Output images and trained models will be saved in result and checkpoint directories.
+
 5- For both training and test; epoch, loss, time information are printed during execution.
 
 *Let us know if you spot any error or have any suggestions.
