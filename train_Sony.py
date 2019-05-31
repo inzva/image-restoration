@@ -13,7 +13,7 @@ input_dir = './dataset/Sony/short/'
 gt_dir = './dataset/Sony/long/'
 checkpoint_dir = './result_Sony/'
 result_dir = './result_Sony/'
-#PATHS#
+#FILE PATHS#
 
 #HYPERPARAMETERS#
 lossmetric = 'l2' # possible options: 'l2', 'ssim', 'both'
