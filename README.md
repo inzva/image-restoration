@@ -32,8 +32,8 @@ inzva AI Projects #2 - Image Restoration Project
 
 4- Training and test sets are generated based on the first characters of the filenames. Please refer to the code for specific implementation.
 
-4- Output images and trained models will be saved in result and checkpoint directories.
+5- Output images and trained models will be saved in result and checkpoint directories.
 
-5- For both training and test; epoch, loss, time information are printed during execution.
+6- For both training and test; epoch, loss, time information are printed during execution.
 
-*Let us know if you spot any error or have any suggestions.
+*Let us know if you spot any error or have any suggestions.*
