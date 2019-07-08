@@ -1,5 +1,11 @@
 # Image-Restoration Team
 
+Contributors (All equally contributed):
+
+* Ahmet Melek
+* Onur Boyar
+* Furkan Gürsoy
+* Burak Satar
 
 We restore very dark images to high quality and visible images.
 
